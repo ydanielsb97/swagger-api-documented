@@ -1,0 +1,6 @@
+.env
+.vscode
+dist
+package-lock.json
+node_modules
+ormconfig.json
